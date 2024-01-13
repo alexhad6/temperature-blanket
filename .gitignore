@@ -1,0 +1,12 @@
+# Misc
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Yarn
+node_modules/
+.yarn/
+
+# Svelte
+.svelte-kit/
